@@ -1,0 +1,8 @@
+# C exec file
+a.out
+
+# C object files
+*.o
+
+# Java class files
+*.class
