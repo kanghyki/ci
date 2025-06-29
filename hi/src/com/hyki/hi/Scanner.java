@@ -1,11 +1,11 @@
-package com.hi;
+package com.hyki.hi;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import static com.hi.TokenType.*;
+import static com.hyki.hi.TokenType.*;
 
 public class Scanner {
     private final String source;

@@ -1,4 +1,4 @@
-package com.hi;
+package com.hyki.hi;
 
 public class Token {
     final TokenType type;

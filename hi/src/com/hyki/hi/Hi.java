@@ -1,4 +1,4 @@
-package com.hi;
+package com.hyki.hi;
 
 import java.io.BufferedReader;
 import java.io.IOException;

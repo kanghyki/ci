@@ -1,7 +1,7 @@
 SRC_DIR = src
 TEST_DIR = test
 BUILD_DIR = build
-MAIN_CLASS = com.hi.Hi
+MAIN_CLASS = com.hyki.hi.Hi
 
 all: compile
 

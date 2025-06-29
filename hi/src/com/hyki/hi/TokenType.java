@@ -1,4 +1,4 @@
-package com.hi;
+package com.hyki.hi;
 
 enum TokenType {
     LEFT_PAREN, RIGHT_PAREN, LEFT_BRACE, RIGHT_BRACE,
